@@ -1,96 +1,101 @@
-# Helping someone in another home
+# Ayudar a alguien que está en otra casa
 
-Everything in this repo assumes your computer and the TV are on the same Wi-Fi. When the TV is at a
-parent's or a friend's house, put a private [Tailscale](https://tailscale.com) link between your
-computer and their home. The TV then behaves exactly as if it were on your network: the prompt,
-`tools/tv.py`, screenshots and the launcher install all work unchanged, with a `100.x.y.z` address
-instead of the local one. Tailscale's personal plan is free.
+Todo en este repositorio da por hecho que tu computadora y el televisor están en el mismo Wi-Fi. Cuando el
+televisor está en casa de tus padres o de un amigo, crea un enlace privado de
+[Tailscale](https://tailscale.com) entre tu computadora y su casa. Así el televisor se comporta exactamente
+como si estuviera en tu red: el prompt, `tools/tv.py`, las capturas de pantalla y la instalación del
+launcher funcionan sin cambios, con una dirección `100.x.y.z` en lugar de la local. El plan personal de
+Tailscale es gratuito.
 
-**Never forward port 5555 on their router to the internet.** ADB is full control of the TV, and
-bots actively scan the internet for open ADB ports.
+**Nunca abras el puerto 5555 de su router hacia internet.** ADB da control total del televisor, y hay bots
+que escanean internet activamente en busca de puertos ADB abiertos.
 
-## What you need
+## Lo que necesitas
 
-- Tailscale on your computer, signed in. The Mac and Windows apps pick up subnet routes on their own;
-  on Linux also run `sudo tailscale set --accept-routes`. Your computer must not be a
-  [tagged](https://tailscale.com/kb/1068/tags) device, since tagged machines can't reach shared ones.
-- Someone at the TV with the remote, on the phone with you for about twenty minutes.
-- One of the two setups below.
+- Tailscale en tu computadora, con la sesión iniciada. Las aplicaciones de Mac y Windows toman las rutas de
+  subred por sí solas; en Linux ejecuta también `sudo tailscale set --accept-routes`. Tu computadora no debe
+  ser un dispositivo [etiquetado](https://tailscale.com/kb/1068/tags) (tagged), ya que las máquinas
+  etiquetadas no pueden llegar a las compartidas.
+- Alguien junto al televisor con el control remoto, al teléfono contigo durante unos veinte minutos.
+- Una de las dos configuraciones de abajo.
 
-## Option A: Tailscale on the TV
+## Opción A: Tailscale en el televisor
 
-The simplest setup when the TV can run it:
+La configuración más sencilla cuando el televisor puede ejecutarlo:
 
-- **Android TV and Google TV:** Tailscale from the Play Store.
-- **Fire TV:** Tailscale from the Amazon Appstore, on most devices from 2018 on. Not on the Fire TV
-  Stick 4K Select, which runs Vega OS (and that one can't be debloated over ADB anyway).
+- **Android TV y Google TV:** Tailscale desde la Play Store.
+- **Fire TV:** Tailscale desde la Amazon Appstore, en la mayoría de los dispositivos de 2018 en adelante.
+  No en el Fire TV Stick 4K Select, que usa Vega OS (y a ese de todos modos no se le puede quitar el
+  bloatware por ADB).
 
-Opening the app shows a QR code. Then either:
+Al abrir la aplicación aparece un código QR. Luego, una de dos:
 
-1. **They keep it in their own tailnet and share the TV with you** (recommended for family). They
-   scan the code with their phone and sign in with their own free account. Then, in the admin
-   console (Machines → the TV → **Share**), they send you an invite and you accept it. You see that
-   one TV and nothing else in their home, and they can revoke it any time.
-2. **It joins your tailnet.** They scan the code and you sign in on their phone with your account.
-   Quicker, but the TV is now one of your devices until you remove it.
+1. **Lo mantienen en su propia tailnet y comparten el televisor contigo** (recomendado para la familia).
+   Escanean el código con su teléfono e inician sesión con su propia cuenta gratuita. Después, en la consola
+   de administración (Machines → el televisor → **Share**), te envían una invitación y tú la aceptas. Ves ese
+   único televisor y nada más de su casa, y pueden revocar el acceso cuando quieran.
+2. **Se une a tu tailnet.** Escanean el código y tú inicias sesión en su teléfono con tu cuenta. Es más
+   rápido, pero el televisor pasa a ser uno de tus dispositivos hasta que lo quites.
 
-The TV's `100.x.y.z` address is shown in the Tailscale app on the TV and in your machine list.
+La dirección `100.x.y.z` del televisor aparece en la aplicación de Tailscale del televisor y en tu lista de
+máquinas.
 
-## Option B: a helper device as a subnet router
+## Opción B: un dispositivo auxiliar como enrutador de subred
 
-Use this when Tailscale won't install on the TV, or they'd rather not have it there. Another device
-in their home forwards your connection to the TV's normal local address:
+Usa esta opción cuando Tailscale no se puede instalar en el televisor, o prefieren no tenerlo ahí. Otro
+dispositivo de su casa reenvía tu conexión a la dirección local normal del televisor:
 
-- a Mac, Windows PC or Linux machine that stays on during the session, or a Raspberry Pi for a
-  permanent setup;
-- an Apple TV, through the Subnet Router option in its Tailscale app;
-- a Synology NAS, with Tailscale from Package Center. Its Tailscale page (DSM, or port 5252) has a
-  Subnet router section, but it's read-only when you open it from a tagged device. Without SSH, a
-  one-off Task Scheduler task (Control Panel → Task Scheduler → Create → Triggered Task →
-  User-defined script, user root, then Run and delete it) runs
-  `/var/packages/Tailscale/target/bin/tailscale set --advertise-routes=192.168.1.0/24`; the
-  setting persists;
-- not a phone: the Android and iOS apps can't route their home network.
+- una Mac, una PC con Windows o una máquina Linux que se quede encendida durante la sesión, o una Raspberry
+  Pi para una configuración permanente;
+- un Apple TV, mediante la opción Subnet Router de su aplicación de Tailscale;
+- un NAS Synology, con Tailscale desde el Centro de paquetes. Su página de Tailscale (DSM, o el puerto 5252)
+  tiene una sección Subnet router, pero es de solo lectura cuando la abres desde un dispositivo etiquetado.
+  Sin SSH, una tarea única del Programador de tareas (Panel de control → Programador de tareas → Crear →
+  Tarea activada → Script definido por el usuario, usuario root, luego Ejecutar y eliminarla) ejecuta
+  `/var/packages/Tailscale/target/bin/tailscale set --advertise-routes=192.168.1.0/24`; el ajuste se
+  conserva;
+- no un teléfono: las aplicaciones de Android e iOS no pueden enrutar su red doméstica.
 
-The helper has to be in **your** tailnet, because shared machines don't carry their subnet routes
-into other tailnets. (If they already run a tailnet, at an office say, the reverse works too: they
-add you as a user, you add their tailnet as a second account in your Tailscale app and switch to
-it for the session.) Install Tailscale on it and send yourself the login link it shows; open it
-signed in to your account. Then advertise their home network (the first three numbers of the TV's
-address, from the TV's network settings):
+El dispositivo auxiliar tiene que estar en **tu** tailnet, porque las máquinas compartidas no llevan sus
+rutas de subred a otras tailnets. (Si ellos ya tienen una tailnet, en una oficina por ejemplo, también
+funciona al revés: te agregan como usuario, tú agregas su tailnet como segunda cuenta en tu aplicación de
+Tailscale y cambias a ella durante la sesión.) Instala Tailscale en él y envíate el enlace de inicio de
+sesión que muestra; ábrelo con la sesión iniciada en tu cuenta. Luego anuncia su red doméstica (los
+primeros tres números de la dirección del televisor, que aparecen en los ajustes de red del televisor):
 
 ```bash
-# Mac (standalone app without the CLI: /Applications/Tailscale.app/Contents/MacOS/Tailscale set ...)
+# Mac (aplicación independiente sin la CLI: /Applications/Tailscale.app/Contents/MacOS/Tailscale set ...)
 sudo tailscale set --advertise-routes=192.168.1.0/24
-# Windows, PowerShell as administrator, after enabling IP forwarding
+# Windows, PowerShell como administrador, después de activar el reenvío de IP
 tailscale set --advertise-routes=192.168.1.0/24
-# Linux, after enabling IP forwarding (https://tailscale.com/kb/1019/subnets)
+# Linux, después de activar el reenvío de IP (https://tailscale.com/kb/1019/subnets)
 sudo tailscale set --advertise-routes=192.168.1.0/24
 ```
 
-Approve the route in your admin console: Machines → the helper → Subnets → Edit. You then reach the
-TV at its local address, e.g. `TV_HOST=192.168.1.40`.
+Aprueba la ruta en tu consola de administración: Machines → el dispositivo auxiliar → Subnets → Edit.
+Entonces llegas al televisor en su dirección local, por ejemplo `TV_HOST=192.168.1.40`.
 
-**The two networks must not overlap.** If their home uses the same range as yours (both
-`192.168.1.x`, say), your computer can't tell their TV from a device at home. Use option A, or
-connect from another network.
+**Las dos redes no deben superponerse.** Si su casa usa el mismo rango que la tuya (ambas `192.168.1.x`,
+por ejemplo), tu computadora no puede distinguir su televisor de un dispositivo de tu casa. Usa la opción
+A, o conéctate desde otra red.
 
-## Connecting
+## Conectarse
 
-Ask them to turn on debugging exactly as in the [Quick start](../README.md#quick-start), then:
+Pídeles que activen la depuración exactamente como en el [Inicio rápido](../README.md#quick-start), y
+luego:
 
 ```bash
 TV_HOST=100.x.y.z tools/tv.py --probe
 ```
 
-They accept "Allow USB debugging?" on the TV while you're on the phone. The rest of the prompt
-runs as normal; tell your assistant the TV is remote and give it this address, so it doesn't
-scan your own network for it.
+Aceptan "¿Permitir la depuración por USB?" en el televisor mientras estás al teléfono. El resto del prompt
+se ejecuta como siempre; dile a tu asistente que el televisor es remoto y dale esta dirección, para que no
+lo busque escaneando tu propia red.
 
-**TVs that only offer Wireless debugging** (some Google TV sets): mDNS discovery doesn't cross the
-tunnel, so they read you three things from Developer options > Wireless debugging: the IP address
-and port on that screen, and, under Pair device with pairing code, the pairing port and the code.
-With the stock `adb`:
+**Televisores que solo ofrecen depuración inalámbrica** (algunos Google TV): el descubrimiento por mDNS no
+atraviesa el túnel, así que te leen tres datos de Opciones de desarrollador > Depuración inalámbrica: la
+dirección IP y el puerto de esa pantalla y, en Vincular dispositivo con código de vinculación, el puerto de
+vinculación y el código. Con el `adb` estándar:
 
 ```bash
 adb pair 100.x.y.z:<pairing port> <code>
@@ -99,25 +104,29 @@ adb -s 100.x.y.z:<connect port> tcpip 5555
 TV_HOST=100.x.y.z tools/tv.py --probe
 ```
 
-With option B, use the TV's local address instead of `100.x.y.z`.
+(`<pairing port>` es el puerto de vinculación, `<code>` el código y `<connect port>` el puerto de conexión.)
 
-## Things that matter more when you aren't there
+Con la opción B, usa la dirección local del televisor en lugar de `100.x.y.z`.
 
-- **Wi-Fi is your only way in.** Anything that drops the TV off Wi-Fi drops you too, and only
-  someone at the TV can fix it. On Google TV, check who owns the saved network before disabling the
-  setup wizard (`dumpsys wifi | grep -o 'cname=[^ ]*'`, see
-  [TROUBLESHOOTING.md](TROUBLESHOOTING.md)). If it says setupwraith, have them forget and re-join
-  the network in Settings first.
-- **Ask, don't guess.** The prompt's checklist questions (which apps, the dock, casting, voice,
-  updates) are theirs to answer, and so is what's plugged into the USB ports.
-- **Leave the restore script with them**, or at least keep it where you can run it the next time
-  you're connected.
+## Lo que importa más cuando no estás ahí
 
-## Afterwards
+- **El Wi-Fi es tu única vía de entrada.** Cualquier cosa que deje al televisor sin Wi-Fi te deja fuera a
+  ti también, y solo alguien junto al televisor puede arreglarlo. En Google TV, revisa a quién pertenece la
+  red guardada antes de desactivar el asistente de configuración (`dumpsys wifi | grep -o 'cname=[^ ]*'`,
+  ver [TROUBLESHOOTING.md](TROUBLESHOOTING.md)). Si dice setupwraith, pídeles primero que olviden la red y
+  vuelvan a conectarse a ella en Ajustes.
+- **Pregunta, no adivines.** Las preguntas de lista de casillas del prompt (qué aplicaciones, el dock, la
+  transmisión, la voz, las actualizaciones) les toca responderlas a ellos, igual que qué está conectado a
+  los puertos USB.
+- **Déjales el script de restauración**, o al menos guárdalo donde puedas ejecutarlo la próxima vez que te
+  conectes.
 
-1. They switch off USB debugging and Wireless debugging in Developer options. The launcher keeps
-   working.
-2. Remove the access: they revoke the share, or you remove the TV or the helper from your tailnet
-   (or turn off its routes) in the admin console. Uninstall Tailscale from the TV unless they use it.
+## Después
 
-Did this on a TV where something worked differently? Add a line here in a pull request.
+1. Desactivan la depuración por USB y la depuración inalámbrica en Opciones de desarrollador. El launcher
+   sigue funcionando.
+2. Quita el acceso: ellos revocan el uso compartido, o tú quitas el televisor o el dispositivo auxiliar de
+   tu tailnet (o desactivas sus rutas) en la consola de administración. Desinstala Tailscale del televisor a
+   menos que lo usen.
+
+¿Hiciste esto en un televisor donde algo funcionó distinto? Agrega una línea aquí en un pull request.

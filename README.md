@@ -1,116 +1,117 @@
 <p align="center">
-  <a href="https://cleanyour.tv"><img src="https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/banner.png" alt="CleanYourTV. Your TV, minus the ads. Strip the bloatware from any Android TV or Google TV over Wi-Fi and replace the ad-filled home screen with a clean launcher that looks like an Apple TV. No root, no cable, nothing uninstalled, and a one-line restore." width="800"></a>
+  <a href="https://cleanyour.tv"><img src="https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/banner.png" alt="CleanYourTV. Tu televisor, sin la publicidad. Quita las aplicaciones de relleno de cualquier Android TV o Google TV por Wi-Fi y cambia la pantalla de inicio llena de anuncios por un inicio limpio que se parece al de un Apple TV. Sin root, sin cable, sin desinstalar nada, y se deshace con una sola línea." width="800"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gathin23/cleanyourtv/stargazers"><img src="https://img.shields.io/github/stars/Gathin23/cleanyourtv?style=flat&cacheSeconds=1800&color=cfffcf&labelColor=15181e" alt="Stars"></a>
-  <a href="https://github.com/Gathin23/cleanyourtv/pulls?q=is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3AGathin23%2Fcleanyourtv%20is%3Apr%20is%3Amerged&style=flat&cacheSeconds=1800&label=merged%20PRs&color=cfffcf&labelColor=15181e" alt="Merged PRs"></a>
+  <a href="https://github.com/Gathin23/cleanyourtv/stargazers"><img src="https://img.shields.io/github/stars/Gathin23/cleanyourtv?style=flat&cacheSeconds=1800&color=cfffcf&labelColor=15181e" alt="Estrellas"></a>
+  <a href="https://github.com/Gathin23/cleanyourtv/pulls?q=is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3AGathin23%2Fcleanyourtv%20is%3Apr%20is%3Amerged&style=flat&cacheSeconds=1800&label=merged%20PRs&color=cfffcf&labelColor=15181e" alt="PR aceptados"></a>
   <a href="https://github.com/Gathin23/cleanyourtv/network/members"><img src="https://img.shields.io/github/forks/Gathin23/cleanyourtv?style=flat&cacheSeconds=1800&color=cfffcf&labelColor=15181e" alt="Forks"></a>
-  <a href="https://github.com/Gathin23/cleanyourtv/graphs/contributors"><img src="https://img.shields.io/github/contributors/Gathin23/cleanyourtv?style=flat&cacheSeconds=1800&color=cfffcf&labelColor=15181e" alt="Contributors"></a>
+  <a href="https://github.com/Gathin23/cleanyourtv/graphs/contributors"><img src="https://img.shields.io/github/contributors/Gathin23/cleanyourtv?style=flat&cacheSeconds=1800&color=cfffcf&labelColor=15181e" alt="Colaboradores"></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/README-English-cfffcf?style=flat&labelColor=15181e" alt="English"></a>
   <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/README-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-cfffcf?style=flat&labelColor=15181e" alt="简体中文"></a>
   <a href="README.vi.md"><img src="https://img.shields.io/badge/README-Ti%E1%BA%BFng%20Vi%E1%BB%87t-cfffcf?style=flat&labelColor=15181e" alt="Tiếng Việt"></a>
   <a href="README.ja.md"><img src="https://img.shields.io/badge/README-%E6%97%A5%E6%9C%AC%E8%AA%9E-cfffcf?style=flat&labelColor=15181e" alt="日本語"></a>
-  <a href="https://buymeacoffee.com/gathint"><img src="https://img.shields.io/badge/support-%E2%9D%A4-ff5e8a?style=flat&labelColor=15181e" alt="Support, buy me a coffee"></a>
-  <a href="https://www.producthunt.com/products/cleanyourtv"><img src="https://img.shields.io/badge/Product%20Hunt-upvote%20%E2%96%B2-da552f?style=flat&logo=producthunt&logoColor=white&labelColor=15181e" alt="CleanYourTV on Product Hunt"></a>
+  <a href="https://buymeacoffee.com/gathint"><img src="https://img.shields.io/badge/support-%E2%9D%A4-ff5e8a?style=flat&labelColor=15181e" alt="Apoya el proyecto, invítame un café"></a>
+  <a href="https://www.producthunt.com/products/cleanyourtv"><img src="https://img.shields.io/badge/Product%20Hunt-upvote%20%E2%96%B2-da552f?style=flat&logo=producthunt&logoColor=white&labelColor=15181e" alt="CleanYourTV en Product Hunt"></a>
 </p>
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/310225"><img src="docs/trending-badge.png" alt="#1 trending repo of the week, via trendshift.io" width="360"></a>
+  <a href="https://trendshift.io/repositories/310225"><img src="docs/trending-badge.png" alt="Repositorio n.º 1 en tendencias de la semana, según trendshift.io" width="360"></a>
 </p>
 
 <p align="center">
-  <a href="docs/PRESS.md"><img src="docs/card.jpg" alt="246 TV models · 71 brands · 25 languages · 474 KB launcher. Featured in TechCrunch, TechRadar, Tom's Guide, Mashable, Android Authority, XDA, FlatpanelsHD, It's FOSS, Phandroid, GIGAZINE, Xataka, WinFuture, Frandroid, Macitynet, Techaeris, TechPP and 171 more: 187 articles from 31 countries. Before: stock Google TV home with a sponsored ad. After: the Clean Your TV launcher." width="800"></a>
+  <a href="docs/PRESS.md"><img src="docs/card.jpg" alt="246 modelos de TV · 71 marcas · 25 idiomas · inicio de 474 KB. Aparecimos en TechCrunch, TechRadar, Tom's Guide, Mashable, Android Authority, XDA, FlatpanelsHD, It's FOSS, Phandroid, GIGAZINE, Xataka, WinFuture, Frandroid, Macitynet, Techaeris, TechPP y 171 más: 187 artículos de 31 países. Antes: la pantalla de inicio original de Google TV con un anuncio patrocinado. Después: el inicio de Clean Your TV." width="800"></a>
 </p>
 
-**The viral tweet:** [x.com/gathint/status/2111379569030939102](https://x.com/gathint/status/2111379569030939102)
+**La publicación que se hizo viral:** [x.com/gathint/status/2111379569030939102](https://x.com/gathint/status/2111379569030939102)
 
-On 17 October 2026 I posted a before and after of my parents' TV, cleaned up by Claude Code over Wi-Fi.
-It reached 7.4M views, people started doing the same to their own TVs, and their replies turned into
-the lists here: 170+ TV models from 200+ contributors in four days. The repo was called tv-vibehack
-until the 19th; old links work.
+El 17 de octubre de 2026 publiqué un antes y después del televisor de mis padres, limpiado por Claude Code a través del Wi-Fi.
+Llegó a 7,4 millones de vistas, la gente empezó a hacer lo mismo con sus propios televisores, y sus respuestas se convirtieron en
+las listas que hay aquí: más de 170 modelos de TV aportados por más de 200 personas en cuatro días. El repositorio se llamaba tv-vibehack
+hasta el día 19; los enlaces viejos siguen funcionando.
 
-**Themes, switches and add-ons:** [cleanyour.tv/addons](https://cleanyour.tv/addons)
+**Temas, opciones y complementos:** [cleanyour.tv/addons](https://cleanyour.tv/addons)
 
-**Official links:** the website is [cleanyour.tv](https://cleanyour.tv) and the code, launcher and
-tools live only in this repo. Other domains using the name, such as cleanyourtv.com, are not run by
-this project ([#1004](https://github.com/Gathin23/cleanyourtv/issues/1004)).
+**Enlaces oficiales:** el sitio web es [cleanyour.tv](https://cleanyour.tv) y el código, el inicio y las
+herramientas están solamente en este repositorio. Otros dominios que usan el nombre, como cleanyourtv.com, no son de
+este proyecto ([#1004](https://github.com/Gathin23/cleanyourtv/issues/1004)).
 
-## How it works
+## Cómo funciona
 
-Android TVs have the same debug bridge as Android phones. Switch on USB debugging in the TV's
-developer options, allow your computer once, and the rest is standard Android tooling:
+Los televisores Android tienen la misma "puerta de depuración" que los teléfonos Android. Se activa la depuración por USB en las
+opciones de desarrollador del televisor, se le da permiso a tu computadora una sola vez, y lo demás son las herramientas normales de Android:
 
-| Step | What happens |
+| Paso | Qué pasa |
 |---|---|
-| **Back&nbsp;up** | The list of installed packages and settings. |
-| **Disable** | The manufacturer's telemetry, ad services, content rows and preloaded junk, with `pm disable-user`. Nothing is uninstalled, so a restore script can undo every step. |
-| **Install** | A small native launcher, made the default home screen. |
+| **Copia&nbsp;de&nbsp;seguridad** | Se guarda la lista de aplicaciones instaladas y los ajustes. |
+| **Desactivar** | Se apagan el rastreo del fabricante, los servicios de publicidad, las filas de contenido y las aplicaciones de relleno que venían instaladas, con `pm disable-user`. No se desinstala nada, así que un programa de restauración puede deshacer cada paso. |
+| **Instalar** | Se instala un inicio pequeño y liviano, y se deja como pantalla de inicio principal. |
 
-**No root, no cable, nothing uninstalled, and a one-line restore if you change your mind.**
+**Sin root, sin cable, sin desinstalar nada, y con una sola línea se vuelve todo atrás si cambias de opinión.**
 
-The bloat differs by brand, so the prompt has your coding assistant discover it on your TV and ask
-before touching anything you might use.
+Las aplicaciones de relleno cambian según la marca, así que las instrucciones le piden a tu asistente de programación que las encuentre en tu televisor y que te pregunte
+antes de tocar cualquier cosa que puedas usar.
 
-## Quick start
+## Primeros pasos
 
-| You have | Do this |
+| Si tienes | Haz esto |
 |---|---|
-| **A computer** | Use the prompt with a coding assistant: the three steps below. |
-| **Only an Android phone** | Use the community-built [Clean Your TV app](https://cleanyour.tv/app) by [@udhaykumarbala](https://github.com/udhaykumarbala): connect, analyse, clean, in about five minutes. No laptop, no coding agent. |
+| **Una computadora** | Usa las instrucciones con un asistente de programación: los tres pasos de abajo. |
+| **Solo un teléfono Android** | Usa la [aplicación Clean Your TV](https://cleanyour.tv/app), hecha por la comunidad, de [@udhaykumarbala](https://github.com/udhaykumarbala): conectar, analizar, limpiar, en unos cinco minutos. Sin computadora portátil y sin asistente de programación. |
 
-With a computer, you need it on the same Wi-Fi as the TV and a coding assistant with shell access.
+Con una computadora, necesitas que esté conectada al mismo Wi-Fi que el televisor y un asistente de programación que pueda usar la terminal.
 
-Any of these work: Claude Code (on [0G Private Computer](https://pc.0g.ai) or an [Anthropic plan](https://claude.com/pricing)), [Codex](https://github.com/openai/codex) or [Gemini CLI](https://github.com/google-gemini/gemini-cli).
+Cualquiera de estos sirve: Claude Code (en [0G Private Computer](https://pc.0g.ai) o con un [plan de Anthropic](https://claude.com/pricing)), [Codex](https://github.com/openai/codex) o [Gemini CLI](https://github.com/google-gemini/gemini-cli).
 
-| Where | What to do |
+| Dónde | Qué hacer |
 |---|---|
-| **1. On the TV** | Settings → Device Preferences → About → press OK on **Build** seven times → back → Developer options → **USB debugging** on. If you see a Network or ADB debugging toggle, turn that on too. Keep the TV on. |
-| **2. On your computer** | Paste [`PROMPT.md`](PROMPT.md) into your assistant and fill in your TV model. |
-| **3. Follow along** | Accept "Allow USB debugging?" on the TV, then answer the checklist: which apps you use, the dock size and app order, whether to keep the voice assistant, Chromecast and updates. |
+| **1. En el televisor** | Configuración → Preferencias del dispositivo → Información → presiona OK sobre **Compilación** siete veces → vuelve atrás → Opciones de desarrollador → activa **Depuración por USB**. Si ves un interruptor de depuración por red o depuración ADB, actívalo también. Deja el televisor encendido. |
+| **2. En tu computadora** | Pega [`PROMPT.md`](PROMPT.md) en tu asistente y escribe el modelo de tu televisor. |
+| **3. Sigue los pasos** | Acepta "¿Permitir la depuración por USB?" en el televisor y luego responde la lista de preguntas: qué aplicaciones usas, el tamaño de la barra inferior y el orden de las aplicaciones, y si quieres conservar el asistente de voz, Chromecast y las actualizaciones. |
 
-The assistant backs up, debloats, builds and installs the launcher, and checks each step with
-screenshots pulled from the TV. With this repo as context it takes about fifteen minutes.
+El asistente hace la copia de seguridad, quita lo que sobra, prepara e instala el inicio, y revisa cada paso con
+capturas de pantalla tomadas del televisor. Con este repositorio como guía tarda unos quince minutos.
 
-## What you get
+## Qué obtienes
 
-A home screen that looks like an Apple TV and gets out of the way:
+Una pantalla de inicio que se parece a la de un Apple TV y no estorba:
 
-| Part | What it looks like |
+| Parte | Cómo se ve |
 |---|---|
-| **A pitch-black home** | A dock of your four favourite apps in a rounded band, where Apple TV puts it. |
-| **A top shelf** | Names the focused app in large type, with an ambient glow in a colour taken from its artwork. |
-| **The rest of your apps in a grid** | Slides up when you press Down. |
-| **One floating glass highlight** | Springs from tile to tile. The focused tile lifts and shows its name. |
-| **Three frosted buttons** | Inputs (HDMI ports under the names you gave them in the TV's settings, AV, Live TV), Wi-Fi or Ethernet with the network name, Settings. |
-| **A greeting, a thin clock and the date** | In [Outfit](https://fonts.google.com/specimen/Outfit), and a matching Clock screensaver. Set `show_stats` in config or a theme for one line under the clock: CPU, free memory and free storage. It stays off unless you turn it on, and it refreshes only while Home is on screen. |
-| **Themes and module cards** | Themes change colours, wallpaper, dock and columns without a rebuild, and module cards let other apps plug a tile in, only with your say-so. |
+| **Un inicio negro total** | Una barra con tus cuatro aplicaciones favoritas en una franja redondeada, donde la pone Apple TV. |
+| **Una franja superior** | Muestra con letras grandes el nombre de la aplicación seleccionada, con un brillo de fondo del color de su imagen. |
+| **El resto de tus aplicaciones en una cuadrícula** | Aparece desde abajo cuando presionas Abajo. |
+| **Un solo resaltado de vidrio** | Salta de un recuadro a otro. El recuadro seleccionado se levanta y muestra su nombre. |
+| **Tres botones esmerilados** | Entradas (los puertos HDMI con los nombres que les pusiste en la configuración del televisor, AV, TV en vivo), Wi-Fi o cable de red con el nombre de la red, y Configuración. |
+| **Un saludo, un reloj fino y la fecha** | En la letra [Outfit](https://fonts.google.com/specimen/Outfit), y un protector de pantalla de reloj que combina. Activa `show_stats` en la configuración o en un tema para ver una línea debajo del reloj: uso del procesador, memoria libre y espacio libre. Viene apagado a menos que lo actives, y solo se actualiza mientras el Inicio está en pantalla. |
+| **Temas y tarjetas de módulo** | Los temas cambian los colores, el fondo de pantalla, la barra y las columnas sin tener que volver a armar el inicio, y las tarjetas de módulo permiten que otras aplicaciones agreguen un recuadro, solo si tú lo autorizas. |
 
-And a TV that stops working against you: no sponsored rows, no "Discover" nags, no analytics
-phoning home, no apps you never asked for.
+Y un televisor que deja de trabajar en tu contra: sin filas patrocinadas, sin avisos de "Descubrir", sin datos
+enviados a terceros, sin aplicaciones que nunca pediste.
 
 | | |
 |---|---|
-| ![The top shelf names the focused app over an ambient glow in its colour](docs/focus-2-up-netflix.png) | ![The Inputs popup: HDMI ports with what is connected, AV and Live TV](docs/inputs-menu.jpg) |
-| *Top shelf and ambient glow* | *Inputs: HDMI with connection state, AV, Live TV* |
-| ![The grid with the glass highlight on a tile and its name beneath](docs/focus-1-fancode.png) | ![The Clock screensaver: a thin clock drifting over the glow](docs/clock-screensaver.png) |
-| *The grid, one glass highlight, the tile's name* | *Clock screensaver, drifts so nothing burns in* |
-| ![The aurora theme: a wallpaper and tinted pills, pushed without a rebuild](themes/aurora/screenshot.jpg) | ![Six columns and a six-app dock from a theme's config.json](themes/six-columns/screenshot.jpg) |
-| *Aurora theme, pushed with `tools/theme.sh`* | *Six columns and a six-app dock, same launcher* |
-| ![Moving a tile: held OK, chose Move, the tile is picked up and the others dim](docs/tile-move.jpg) | ![The App library: installed apps, one press adds an app back to Home](docs/app-library.jpg) |
-| *With `tile_menu`, hold OK on a tile, Move: arrows carry it, Back puts it down* | *App library: one press puts a removed app back on Home* |
+| ![La franja superior muestra el nombre de la aplicación seleccionada sobre un brillo de su color](docs/focus-2-up-netflix.png) | ![La ventana de Entradas: los puertos HDMI con lo que está conectado, AV y TV en vivo](docs/inputs-menu.jpg) |
+| *Franja superior y brillo de fondo* | *Entradas: HDMI con su estado de conexión, AV, TV en vivo* |
+| ![La cuadrícula con el resaltado de vidrio sobre un recuadro y su nombre debajo](docs/focus-1-fancode.png) | ![El protector de pantalla de reloj: un reloj fino que se desplaza sobre el brillo](docs/clock-screensaver.png) |
+| *La cuadrícula, un resaltado de vidrio, el nombre del recuadro* | *Protector de pantalla de reloj; se mueve para que nada quede marcado en la pantalla* |
+| ![El tema aurora: un fondo de pantalla y botones con color, aplicado sin volver a armar el inicio](themes/aurora/screenshot.jpg) | ![Seis columnas y una barra de seis aplicaciones, desde el config.json de un tema](themes/six-columns/screenshot.jpg) |
+| *Tema Aurora, aplicado con `tools/theme.sh`* | *Seis columnas y una barra de seis aplicaciones, con el mismo inicio* |
+| ![Mover un recuadro: se mantuvo OK, se eligió Mover, el recuadro queda levantado y los demás se oscurecen](docs/tile-move.jpg) | ![La biblioteca de aplicaciones: las aplicaciones instaladas; con un botón se vuelve a poner una aplicación en el Inicio](docs/app-library.jpg) |
+| *Con `tile_menu`, mantén OK sobre un recuadro y elige Mover: las flechas lo llevan, Atrás lo suelta* | *Biblioteca de aplicaciones: con un botón vuelve al Inicio una aplicación que habías quitado* |
 
-## Supported TVs
+## Televisores compatibles
 
-Anything running **Android TV** or **Google TV**.
+Cualquiera que funcione con **Android TV** o **Google TV**.
 
-| Platform | What works |
+| Plataforma | Qué funciona |
 |---|---|
-| **Android TV, Google TV** | The debloat and the launcher. |
-| **Fire TV** | The debloat half only, since Fire OS will not hand Home to a third-party launcher. And on the 2015 Fire TV Box (Fire OS 5) even that half fails: every `pm` route is refused. |
-| **A few China-market TCL sets** | They refuse to install any launcher at all; their lists say so in the header. |
-| **Samsung (Tizen), LG (webOS)** | Different systems. See [SHOWCASE.md](SHOWCASE.md#other-platforms-fire-tv-and-lg-webos) for three webOS ports, and [docs/devices/samsung-tizen.md](docs/devices/samsung-tizen.md) for what a 2021 Samsung set answers over Wi-Fi (no ADB, so no `pm disable-user`) if you are weighing a Tizen port. |
+| **Android TV, Google TV** | La limpieza y el inicio nuevo. |
+| **Fire TV** | Solo la parte de limpieza, porque Fire OS no deja que otro inicio ocupe la pantalla principal. Y en el Fire TV Box de 2015 (Fire OS 5) ni siquiera esa parte funciona: rechaza todas las formas de usar `pm`. |
+| **Algunos televisores TCL para el mercado chino** | No permiten instalar ningún inicio; sus listas lo dicen en el encabezado. |
+| **Samsung (Tizen), LG (webOS)** | Son sistemas distintos. Mira [SHOWCASE.md](SHOWCASE.md#other-platforms-fire-tv-and-lg-webos) para tres adaptaciones a webOS, y [docs/devices/samsung-tizen.md](docs/devices/samsung-tizen.md) para ver qué responde por Wi-Fi un televisor Samsung de 2021 (sin ADB, así que sin `pm disable-user`) si estás pensando en adaptarlo a Tizen. |
 
-Tested lists from contributors, one folder per model in [`examples/`](examples/):
+Listas probadas por colaboradores, una carpeta por modelo en [`examples/`](examples/):
 
 **TCL** 57 · **Sony** 31 · **Xiaomi** 28 · **Philips** 12 · **Hisense** 9 · **Skyworth** 9 · **Amazon Fire TV** 7 ·
 **Thomson** 4 · **BenQ** 3 · **Google** 3 · **OnePlus** 3 · **Panasonic** 3 · **CHiQ** 2 · **FFalcon** 2 · **Haier** 2 ·
@@ -119,10 +120,10 @@ Tested lists from contributors, one folder per model in [`examples/`](examples/)
 AiPro2K · AIWA · Artel · Caxium · Cecotec · Challenger · Compac · Dialog · EKO · Freebox · Grundig · Insignia Fire TV ·
 JVC · Karbonn · Kogan · Lumio · MTC · Noblex · OK. · PEAQ · Polytron · PRISM+ · RCA · RockTek · Sankey · SANYO · SHARP ·
 Super General · Tele System · TiVo · Tornado · Turkcell · Verizon · Vidda · Vision ·
-Anker Nebula, BYINTEK, Epson, Formovie, Gadnic, JMGO, Portronics, Stellamore, Wanbo and XGIMI projectors
+proyectores Anker Nebula, BYINTEK, Epson, Formovie, Gadnic, JMGO, Portronics, Stellamore, Wanbo y XGIMI
 
 <details>
-<summary><strong>The full list</strong></summary>
+<summary><strong>La lista completa</strong></summary>
 
 | TV | OS |
 |---|---|
@@ -375,12 +376,12 @@ Anker Nebula, BYINTEK, Epson, Formovie, Gadnic, JMGO, Portronics, Stellamore, Wa
 
 </details>
 
-Your TV not here? The prompt discovers the bloat itself. Add your list afterwards and the next
-person with your model skips that step: [CONTRIBUTING.md](CONTRIBUTING.md).
+¿Tu televisor no está aquí? Las instrucciones encuentran solas lo que sobra. Después agrega tu lista y la próxima
+persona con tu modelo se ahorra ese paso: [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Doing it by hand
+## Hacerlo a mano
 
-Everything the assistant does, you can run yourself. The tools need Python 3 and nothing else.
+Todo lo que hace el asistente lo puedes hacer tú mismo. Las herramientas solo necesitan Python 3.
 
 ```bash
 python3 -m venv tools/venv && tools/venv/bin/pip install -r tools/requirements.txt
@@ -395,32 +396,32 @@ TV_HOST=192.168.1.50 launcher/build-and-install.sh           # build the launche
 tools/theme.sh themes/aurora                                 # push a theme; --reset removes it
 ```
 
-| Tool | What it does |
+| Herramienta | Qué hace |
 |---|---|
-| [`tools/tv.py`](tools/tv.py) | Pure-Python ADB client: shell, batch, push, pull, reboot, and screenshots, optionally pressing remote keys first. Works where the stock `adb` binary is blocked. |
-| [`tools/b64push.py`](tools/b64push.py) | Uploads large files such as APKs in base64 chunks and verifies the checksum. |
-| [`tools/relay.py`](tools/relay.py) | Forwards a local port to the TV's ADB port, for assistants whose sandbox can't reach your network. Listens on this computer only. [Guide](tools/relay.md). |
-| [`tools/disable.sh`](tools/disable.sh), [`restore.sh`](tools/restore.sh) | Apply or undo a debloat list, the undo from the state recorded before the change. |
-| [`tools/recovery.py`](tools/recovery.py) | Writes the record `disable.sh` needs to undo itself, and prints the restore batch. |
-| [`tools/check.py`](tools/check.py) | Compares the TV with the list that was applied, for what a firmware update undid; `--fix` puts it back. |
-| [`tools/adb-closed.py`](tools/adb-closed.py) | Checks that the TV's network ADB port is closed once debugging is off: exits 0 when nothing answers, 1 while it is still open, 2 when the check itself could not run. No `nc` needed. |
-| [`tools/privacy.py`](tools/privacy.py) | Audits the TV for voice, ACR and telemetry candidates and prints the evidence for each; `--write` turns the findings into a list `disable.sh` and `restore.sh` already understand. |
-| [`tools/theme.sh`](tools/theme.sh) | Push a folder from [`themes/`](themes/) to the launcher and restart Home. |
-| [`tools/bench.py`](tools/bench.py) | Measures the launcher that answers HOME: key latency, how far the focus moved, janky frames, cold start, return to Home, and the idle CPU and PSS it costs. Changes nothing on the TV and writes the raw per-key numbers to JSON; no extra install. |
-| [`tools/trace.py`](tools/trace.py), [`trace_report.py`](tools/trace_report.py) | Records Perfetto traces of the launcher (return to Home, cold start, D-pad) and reports where its time goes, per run and before against after. Optional: needs [`requirements-perf.txt`](tools/requirements-perf.txt). [Guide](tools/trace.md). |
-| [`tools/flamechart.py`](tools/flamechart.py) | Draws a before/after flame chart from those traces, for a pull request: one lane per thread on a shared time scale, the work a change targets in magenta with its total. Optional, like the trace tools. [Guide](tools/flamechart.md). |
-| [`tools/screendiff.py`](tools/screendiff.py) | Compares a before and an after screenshot pixel by pixel, leaving out the clock or anything you mask, and writes the pair with your Wi-Fi name blurred. Optional, like the trace tools. [Guide](tools/screendiff.md). |
-| [`tools/race_calendar.py`](tools/race_calendar.py) | Writes this season's F1 calendar into a theme for race-weekend mode, from the free Jolpica API. |
-| [`launcher/build-and-install.sh`](launcher/build-and-install.sh) | Builds a shrunk release (about 474 KB), installs it, switches Home, and rolls back if Home does not land on it. |
+| [`tools/tv.py`](tools/tv.py) | Un cliente ADB escrito solo en Python: ejecuta comandos, varios a la vez, envía y trae archivos, reinicia y toma capturas de pantalla, con la opción de presionar antes botones del control remoto. Funciona donde el programa `adb` normal está bloqueado. |
+| [`tools/b64push.py`](tools/b64push.py) | Sube archivos grandes, como los APK, en partes codificadas en base64 y comprueba que lleguen completos. |
+| [`tools/relay.py`](tools/relay.py) | Redirige un puerto de tu computadora al puerto ADB del televisor, para asistentes cuyo entorno aislado no llega a tu red. Solo escucha en esta computadora. [Guía](tools/relay.md). |
+| [`tools/disable.sh`](tools/disable.sh), [`restore.sh`](tools/restore.sh) | Aplican o deshacen una lista de limpieza; para deshacer usan el estado que se guardó antes del cambio. |
+| [`tools/recovery.py`](tools/recovery.py) | Escribe el registro que `disable.sh` necesita para deshacerse, y muestra los comandos de restauración. |
+| [`tools/check.py`](tools/check.py) | Compara el televisor con la lista que se aplicó, para ver qué deshizo una actualización del firmware; `--fix` lo vuelve a dejar como estaba. |
+| [`tools/adb-closed.py`](tools/adb-closed.py) | Comprueba que el puerto ADB de red del televisor quedó cerrado después de apagar la depuración: termina con 0 cuando nada responde, con 1 si sigue abierto y con 2 cuando no pudo hacer la comprobación. No hace falta `nc`. |
+| [`tools/privacy.py`](tools/privacy.py) | Revisa el televisor buscando posibles servicios de voz, de reconocimiento de contenido (ACR) y de rastreo, y muestra las pruebas de cada uno; `--write` convierte lo encontrado en una lista que `disable.sh` y `restore.sh` ya entienden. |
+| [`tools/theme.sh`](tools/theme.sh) | Envía una carpeta de [`themes/`](themes/) al inicio y reinicia el Inicio. |
+| [`tools/bench.py`](tools/bench.py) | Mide el inicio que responde al botón HOME: demora de los botones, cuánto se movió la selección, cuadros entrecortados, arranque en frío, regreso al Inicio, y cuánto procesador y memoria consume en reposo. No cambia nada en el televisor y guarda los números detallados de cada botón en un archivo JSON; no hay que instalar nada extra. |
+| [`tools/trace.py`](tools/trace.py), [`trace_report.py`](tools/trace_report.py) | Graba registros de Perfetto del inicio (regreso al Inicio, arranque en frío, flechas del control) e informa en qué se le va el tiempo, en cada prueba y comparando antes con después. Opcional: necesita [`requirements-perf.txt`](tools/requirements-perf.txt). [Guía](tools/trace.md). |
+| [`tools/flamechart.py`](tools/flamechart.py) | Dibuja un gráfico de llamas de antes y después a partir de esos registros, para una solicitud de cambios (pull request): una franja por hilo en una misma escala de tiempo, y el trabajo que busca mejorar un cambio en color magenta con su total. Opcional, como las herramientas de registro. [Guía](tools/flamechart.md). |
+| [`tools/screendiff.py`](tools/screendiff.py) | Compara una captura de antes y una de después punto por punto, sin contar el reloj ni nada que tú tapes, y guarda las dos con el nombre de tu Wi-Fi borroso. Opcional, como las herramientas de registro. [Guía](tools/screendiff.md). |
+| [`tools/race_calendar.py`](tools/race_calendar.py) | Escribe el calendario de Fórmula 1 de esta temporada en un tema para el modo de fin de semana de carrera, usando la API gratuita de Jolpica. |
+| [`launcher/build-and-install.sh`](launcher/build-and-install.sh) | Arma una versión final reducida (unos 474 KB), la instala, la pone como Inicio, y vuelve atrás si el Inicio no queda en ella. |
 
-The scripts never leave the TV without a Home app: they only disable a stock launcher they recognise,
-and skip the Home app in a list until another launcher answers HOME. Details below.
+Los programas nunca dejan el televisor sin una aplicación de Inicio: solo desactivan un inicio original que reconocen,
+y se saltan la aplicación de Inicio de una lista hasta que otro inicio responda al botón HOME. Más detalles abajo.
 
 <details>
 <summary><b>Windows (PowerShell)</b></summary>
 
-Every script has a PowerShell twin next to it. On Windows with Android Studio installed nothing
-else is needed:
+Cada programa tiene una versión gemela para PowerShell al lado. En Windows, con Android Studio instalado, no hace falta
+nada más:
 
 ```powershell
 python -m venv tools\venv; tools\venv\Scripts\python.exe -m pip install -r tools\requirements.txt
@@ -431,154 +432,154 @@ powershell -ExecutionPolicy Bypass -File tools\disable.ps1 -TvHost 192.168.1.50 
 </details>
 
 <details>
-<summary><b>How the scripts protect Home</b></summary>
+<summary><b>Cómo protegen el Inicio los programas</b></summary>
 
-The install scripts ask the TV which launcher owns Home and only disable one they recognise, the four
-in `KNOWN_STOCK_LAUNCHERS`: `com.google.android.tvlauncher`, `com.google.android.apps.tv.launcherx`,
-`com.google.android.leanbacklauncher` and Xiaomi's `com.mitv.tvhome` (PatchWall). Pass
-`STOCK_LAUNCHER=<package>` (`-StockLauncher`) to override, or `none` to leave it alone.
+Los programas de instalación le preguntan al televisor qué inicio ocupa la pantalla principal y solo desactivan uno que reconocen, los cuatro
+de `KNOWN_STOCK_LAUNCHERS`: `com.google.android.tvlauncher`, `com.google.android.apps.tv.launcherx`,
+`com.google.android.leanbacklauncher` y el de Xiaomi, `com.mitv.tvhome` (PatchWall). Usa
+`STOCK_LAUNCHER=<package>` (`-StockLauncher`) para indicar otro, o `none` para no tocarlo.
 
-`tools/disable.sh` (`disable.ps1`) applies the same rule before it disables anything: if the list
-contains the app that owns Home and no other app on the TV answers HOME, it skips that entry, says
-why, and disables the rest of the list. The setup wizard, the settings apps, a vendor `FallbackHome`
-and factory-test apps (Xiaomi's `com.duokan.factorytest`) answer HOME too and don't count. So a list applied before the launcher handover cannot leave
-the TV with nothing to start. Run the same list again once `launcher/build-and-install.sh` has made
-the new launcher Home and the entry is applied; `FORCE_HOME=1` (`$env:FORCE_HOME`) disables it anyway.
+`tools/disable.sh` (`disable.ps1`) aplica la misma regla antes de desactivar cualquier cosa: si la lista
+incluye la aplicación que ocupa el Inicio y ninguna otra aplicación del televisor responde al botón HOME, se salta esa línea, explica
+por qué, y desactiva el resto de la lista. El asistente de configuración inicial, las aplicaciones de ajustes, un `FallbackHome` del fabricante
+y las aplicaciones de prueba de fábrica (como `com.duokan.factorytest` de Xiaomi) también responden a HOME, pero no cuentan. Así, una lista aplicada antes del cambio de inicio no puede dejar
+al televisor sin nada que abrir. Vuelve a aplicar la misma lista cuando `launcher/build-and-install.sh` haya puesto
+el inicio nuevo como Inicio, y esa línea se aplicará; `FORCE_HOME=1` (`$env:FORCE_HOME`) la desactiva de todos modos.
 
 </details>
 
 <details>
-<summary><b>Where your lists can live</b></summary>
+<summary><b>Dónde pueden estar tus listas</b></summary>
 
-Debloat list paths passed to `disable.sh` and `restore.sh` are relative to the directory you run
-from, so your own lists can live outside the repository. Absolute paths also work.
+Las rutas de las listas de limpieza que se le pasan a `disable.sh` y `restore.sh` se toman a partir de la carpeta desde donde
+los ejecutas, así que tus propias listas pueden estar fuera del repositorio. Las rutas completas también funcionan.
 
 </details>
-## The microphone, and what can be said about it
+## El micrófono, y lo que se puede decir sobre él
 
-"Which of these packages is listening?" has no honest one-line answer, and a permission scan makes
-it worse: on many sets most packages run as `android.uid.system`, so fifty of them show
-`RECORD_AUDIO: granted=true` and none of them record anything. On others the microphone is in the
-remote, not the panel, and a package with no audio permission at all still sees everything on screen
-— ACR clients such as `tv.inscape.tvclient.inscapeacr` identify content from the picture and need
-only `INTERNET`.
+"¿Cuál de estas aplicaciones está escuchando?" no tiene una respuesta honesta en una línea, y revisar los permisos lo empeora:
+en muchos televisores la mayoría de las aplicaciones funcionan como `android.uid.system`, así que cincuenta de ellas muestran
+`RECORD_AUDIO: granted=true` y ninguna graba nada. En otros, el micrófono está en el
+control remoto, no en el televisor, y una aplicación sin ningún permiso de audio igual ve todo lo que hay en la pantalla
+— los programas de reconocimiento de contenido (ACR), como `tv.inscape.tvclient.inscapeacr`, identifican lo que estás viendo a partir de la imagen y solo necesitan
+`INTERNET`.
 
-`tools/privacy.py` reports what the TV actually says instead of guessing:
-`TV_HOST=192.168.1.50 tools/venv/bin/python -I tools/privacy.py` prints voice, ACR and telemetry
-candidates in three groups, each with its evidence — named by the firmware's own
-`voice_interaction_service`, a known component from [`examples/`](examples/), or nothing but a
-matching name — plus whether the package declares `RECORD_AUDIO`, whether it shares the system UID,
-and whether the returned AppOps history contains microphone access. A configured mode or a rejected
-attempt alone is not evidence of access.
+`tools/privacy.py` informa lo que el televisor realmente dice, en vez de adivinar:
+`TV_HOST=192.168.1.50 tools/venv/bin/python -I tools/privacy.py` muestra los posibles servicios de voz, ACR y rastreo
+en tres grupos, cada uno con su prueba — señalado por el propio
+`voice_interaction_service` del firmware, un componente conocido de [`examples/`](examples/), o solo un
+nombre que coincide — y además si la aplicación declara `RECORD_AUDIO`, si comparte la identidad del sistema,
+y si el historial de AppOps que devuelve muestra uso del micrófono. Un modo configurado o un intento rechazado
+por sí solos no prueban que haya habido acceso.
 
-`--write privacy.txt` turns the identified candidates into a normal debloat list, so applying it and
-undoing it are the commands you already use (`tools/disable.sh`, `tools/restore.sh`). Packages that
-only matched by name stay out unless you pass `--include-low`; they are the ones to check with
-`dumpsys package <name>` first.
+`--write privacy.txt` convierte lo identificado en una lista de limpieza normal, así que aplicarla y
+deshacerla se hace con los mismos comandos que ya usas (`tools/disable.sh`, `tools/restore.sh`). Las aplicaciones que
+solo coincidieron por el nombre quedan fuera, a menos que uses `--include-low`; son las que conviene revisar antes con
+`dumpsys package <name>`.
 
-What the audit cannot do is prove intent. `appops` shows an op was touched, not what happened to the
-stream afterwards, and no scan of package names proves a TV is or is not recording. Disabling an
-assistant is a trade you make with a specific loss (the remote's mic button, voice search inside
-apps), which is why the report names that loss per package instead of calling it a win.
+Lo que la revisión no puede hacer es probar intenciones. `appops` muestra que se usó una función, no qué pasó con el
+sonido después, y ninguna revisión de nombres de aplicaciones prueba que un televisor esté o no esté grabando. Desactivar un
+asistente es un intercambio en el que pierdes algo concreto (el botón del micrófono del control, la búsqueda por voz dentro
+de las aplicaciones), y por eso el informe nombra esa pérdida para cada aplicación en vez de presentarlo como una ganancia.
 
-## The launcher
+## El inicio
 
-A small native home screen for Android TV: **about 474 KB**, plain Java, built for TVs with 1 GB of RAM.
-No blur, no video, no network permission, no background services.
+Una pantalla de inicio pequeña y liviana para Android TV: **unos 474 KB**, escrita en Java simple, pensada para televisores con 1 GB de memoria RAM.
+Sin efectos de desenfoque, sin video, sin permiso de red, sin servicios funcionando en segundo plano.
 
-The **TV** needs Android 8.0 (API 26) or newer: `minSdk` is a compile-time floor in
-[`launcher/app/build.gradle`](launcher/app/build.gradle), and the install script asks the TV for
-`ro.build.version.sdk` before it builds, so an older set is told both numbers instead of failing at
-`pm install` (see [Troubleshooting](docs/TROUBLESHOOTING.md) for what is left on such a set).
+El **televisor** necesita Android 8.0 (API 26) o más nuevo: `minSdk` es un mínimo que se fija al armar el programa en
+[`launcher/app/build.gradle`](launcher/app/build.gradle), y el programa de instalación le pregunta al televisor su
+`ro.build.version.sdk` antes de armarlo, así que a un televisor más viejo se le muestran los dos números en vez de fallar en
+`pm install` (mira [Solución de problemas](docs/TROUBLESHOOTING.md) para saber qué se puede hacer en esos televisores).
 
-| What | How it works |
+| Qué | Cómo funciona |
 |---|---|
-| **Configure** | Dock order, hidden apps, Live TV app, 4 to 7 tiles per row, reduced motion. All in [`config.xml`](launcher/app/src/main/res/values/config.xml) |
-| **Settings on the TV** | Hold OK on Settings for launcher settings. Optional `launcher_settings_button` makes a normal click open them directly; TV settings remain on the settings page and their app tile. |
-| **Themes** | Background, wallpaper and layout from a `config.json` pushed over Wi-Fi, no rebuild. Seven ship in [`themes/`](themes/), the built-in `default/` included |
-| **25 languages** | Follows the TV's language, with a fully mirrored right-to-left layout for Hebrew |
-| **App library** | Optional: browse every installed app and add or remove Home shortcuts. See [the app library guide](docs/app-library.md) |
-| **Tile menu** | Optional (`tile_menu`): hold OK on a tile for Move, Remove from Home and App info. Off, holding OK opens App info |
-| **Module cards** | Any TV app can offer its own tile; you approve each one once. See [`docs/modules.md`](docs/modules.md) |
-| **Add-ons** | Optional apps that plug in as module cards, kept in [`addons/`](addons/) and never built into the launcher |
-| **Clock screensaver** | A drifting clock over the glow, so nothing burns in |
-| **Remote keys** | Keeps the Input, YouTube and gear buttons working after the stock launcher is gone |
+| **Configurar** | Orden de la barra, aplicaciones ocultas, aplicación de TV en vivo, de 4 a 7 recuadros por fila, menos movimiento. Todo en [`config.xml`](launcher/app/src/main/res/values/config.xml) |
+| **Ajustes en el televisor** | Mantén OK sobre Configuración para abrir los ajustes del inicio. La opción `launcher_settings_button` hace que un clic normal los abra directamente; los ajustes del televisor siguen en la página de ajustes y en su recuadro de aplicación. |
+| **Temas** | Fondo, fondo de pantalla y diseño desde un `config.json` enviado por Wi-Fi, sin volver a armar el inicio. Vienen siete en [`themes/`](themes/), incluido el `default/` que trae de fábrica |
+| **25 idiomas** | Usa el idioma del televisor, con un diseño completamente en espejo, de derecha a izquierda, para el hebreo |
+| **Biblioteca de aplicaciones** | Opcional: recorre todas las aplicaciones instaladas y agrega o quita accesos directos del Inicio. Mira [la guía de la biblioteca de aplicaciones](docs/app-library.md) |
+| **Menú del recuadro** | Opcional (`tile_menu`): mantén OK sobre un recuadro para Mover, Quitar del Inicio e Información de la aplicación. Si está apagado, mantener OK abre la Información de la aplicación |
+| **Tarjetas de módulo** | Cualquier aplicación del televisor puede ofrecer su propio recuadro; tú apruebas cada una una sola vez. Mira [`docs/modules.md`](docs/modules.md) |
+| **Complementos** | Aplicaciones opcionales que se conectan como tarjetas de módulo, guardadas en [`addons/`](addons/) y nunca incluidas dentro del inicio |
+| **Protector de pantalla de reloj** | Un reloj que se desplaza sobre el brillo, para que nada quede marcado en la pantalla |
+| **Botones del control remoto** | Mantiene funcionando los botones de Entrada, YouTube y el engranaje después de quitar el inicio original |
 
 <details>
-<summary><b>Build it yourself</b></summary>
+<summary><b>Armarlo tú mismo</b></summary>
 
-It needs JDK 17 and Android SDK platform 34. On macOS: `brew install openjdk@17 android-commandlinetools`
-and `sdkmanager "platforms;android-34" "build-tools;34.0.0"`. On Linux the install script finds
-`~/Android/Sdk` and the `java` on your PATH.
+Necesita JDK 17 y la plataforma 34 del SDK de Android. En macOS: `brew install openjdk@17 android-commandlinetools`
+y `sdkmanager "platforms;android-34" "build-tools;34.0.0"`. En Linux, el programa de instalación encuentra
+`~/Android/Sdk` y el `java` que esté en tu PATH.
 
 </details>
 
 <details>
-<summary><b>Configure</b></summary>
+<summary><b>Configurar</b></summary>
 
-[`config.xml`](launcher/app/src/main/res/values/config.xml) sets the dock order, hidden apps, the Live TV
-package, columns (tiles shrink from 5 up), rows under the dock, an optional VPN app for the network pill,
-and `reduced_motion` for TVs whose GPU cannot keep up. Themes set the same keys plus a background colour
-and a wallpaper.
-
-</details>
-
-<details>
-<summary><b>Launcher settings and the default home</b></summary>
-
-- Click **Settings** for the TV's own settings. Hold OK on it and choose **Launcher settings**, or click it
-  straight away with `launcher_settings_button`. The launcher's own page has these rows, top to bottom:
-  - **Reorder apps**, only with `launcher_settings_button`: OK picks an app up, the arrows move it, Back
-    places it, and Back again finishes.
-  - **Apps per row** 4, 5, 6 or 7; **Rows below dock** 0 to 3, how many rows of tiles stay visible under the
-    dock band; **Dock band opacity** 100%, 70%, 50% or 30%. The last two only do anything while the dock is
-    its own row (`dock_row`, on by default).
-  - **Wallpaper**: one picture from the theme's collection (or its `wallpaper.jpg`), **None**, or **Theme
-    default**. A pick holds that picture and stops the rotation until you choose Theme default, press
-    Follow theme, or push the theme again.
-  - **Animations** on or off, and **Advanced effects** (tile lift, icon zoom and smooth ambient-colour
-    transitions; they may use more memory) once animations are on.
-  - **Follow theme (reset on-TV choices)**, which clears every choice above. Pushing or resetting a theme
-    clears them too.
-  - **Choose default home** opens Android's home picker, and **TV system settings** the TV's own settings
-    page.
-- **Change the default home:** Launcher settings and the optional Default-home tile
-  (`show_home_settings_shortcut`) open Android's home picker. Choose the original launcher to stop using
-  CleanYourTV as Home, or CleanYourTV to return. The original launcher must be enabled; if the install
-  script disabled it, run the restore script below first. Some TVs provide no home picker.
+[`config.xml`](launcher/app/src/main/res/values/config.xml) define el orden de la barra, las aplicaciones ocultas, la aplicación de
+TV en vivo, las columnas (los recuadros se achican a partir de 5), las filas debajo de la barra, una aplicación de VPN opcional para el botón de red,
+y `reduced_motion` para televisores cuyo procesador gráfico no da abasto. Los temas definen las mismas opciones, más un color de fondo
+y un fondo de pantalla.
 
 </details>
 
 <details>
-<summary><b>Languages</b></summary>
+<summary><b>Ajustes del inicio y el inicio predeterminado</b></summary>
 
-English, German, Spanish, Catalan, French, Russian, Serbian (Latin), Polish, Czech, Italian, Portuguese,
-Turkish, Arabic, Hebrew, Simplified Chinese, Traditional Chinese (Taiwan), Thai, Finnish, Vietnamese,
-Bangla, Indonesian, Norwegian Bokmål, Dutch, Uzbek (Latin) and Ukrainian. The launcher follows the TV's language. Android 13+ can set it for the launcher
-alone: `tools/tv.py 'cmd locale set-app-locales com.gathin.tvhome --locales ca'`.
-
-Hebrew mirrors the layout: menu buttons on the left, date and clock on the right with the greeting above,
-dock and app rows starting on the right with matching remote navigation, the input selector's icons and
-labels on the right, and dates with the month prefix ב (for example, 19 באוקטובר). The Clock screensaver
-right-aligns its date and time. Russian covers every screen, including race weekends, festival greetings and the Shamsi date. Other
-languages keep their original layouts.
+- Haz clic en **Configuración** para abrir los ajustes propios del televisor. Mantén OK sobre ese botón y elige **Ajustes del inicio**, o ábrelos
+  con un clic directo si usas `launcher_settings_button`. La página propia del inicio tiene estas filas, de arriba hacia abajo:
+  - **Reordenar aplicaciones**, solo con `launcher_settings_button`: OK levanta una aplicación, las flechas la mueven, Atrás
+    la suelta, y Atrás otra vez termina.
+  - **Aplicaciones por fila** 4, 5, 6 o 7; **Filas debajo de la barra** de 0 a 3, cuántas filas de recuadros se ven debajo de la
+    franja de la barra; **Opacidad de la franja de la barra** 100%, 70%, 50% o 30%. Las dos últimas solo hacen algo mientras la barra
+    está en su propia fila (`dock_row`, activado de forma predeterminada).
+  - **Fondo de pantalla**: una imagen de la colección del tema (o su `wallpaper.jpg`), **Ninguno**, o **Predeterminado del
+    tema**. Al elegir una, esa imagen se queda fija y deja de rotar hasta que elijas Predeterminado del tema, presiones
+    Seguir el tema, o vuelvas a enviar el tema.
+  - **Animaciones** activadas o desactivadas, y **Efectos avanzados** (recuadros que se levantan, íconos que se agrandan y cambios suaves del
+    color de fondo; pueden usar más memoria) cuando las animaciones están activadas.
+  - **Seguir el tema (borrar lo elegido en el televisor)**, que borra todas las elecciones de arriba. Enviar o restablecer un tema
+    también las borra.
+  - **Elegir inicio predeterminado** abre el selector de inicio de Android, y **Ajustes del sistema del televisor** abre la página de ajustes propia
+    del televisor.
+- **Cambiar el inicio predeterminado:** los Ajustes del inicio y el recuadro opcional de Inicio predeterminado
+  (`show_home_settings_shortcut`) abren el selector de inicio de Android. Elige el inicio original para dejar de usar
+  CleanYourTV como Inicio, o CleanYourTV para volver a él. El inicio original tiene que estar activado; si el programa de instalación
+  lo desactivó, primero ejecuta el programa de restauración que aparece más abajo. Algunos televisores no tienen selector de inicio.
 
 </details>
 
 <details>
-<summary><b>Module cards</b></summary>
+<summary><b>Idiomas</b></summary>
 
-Any TV app can declare its own tile (label, caption, glow). The launcher asks you once per app, keeps it
-hidden by default, and remembers the answer for that app's signing key and card name. Hold OK on Settings
-and choose Module cards to change your mind. How to make one: [`docs/modules.md`](docs/modules.md); the
-contract: [`docs/specs/card.md`](docs/specs/card.md).
+Inglés, alemán, español, catalán, francés, ruso, serbio (alfabeto latino), polaco, checo, italiano, portugués,
+turco, árabe, hebreo, chino simplificado, chino tradicional (Taiwán), tailandés, finlandés, vietnamita,
+bengalí, indonesio, noruego bokmål, neerlandés, uzbeko (alfabeto latino) y ucraniano. El inicio usa el idioma del televisor. Android 13 o más nuevo permite elegirlo
+solo para el inicio: `tools/tv.py 'cmd locale set-app-locales com.gathin.tvhome --locales ca'`.
+
+En hebreo el diseño se pone en espejo: los botones del menú a la izquierda, la fecha y el reloj a la derecha con el saludo arriba,
+la barra y las filas de aplicaciones empiezan por la derecha y el control remoto se mueve igual, los íconos y nombres del selector de entradas
+quedan a la derecha, y las fechas llevan el prefijo de mes ב (por ejemplo, 19 באוקטובר). El protector de pantalla de reloj
+alinea a la derecha su fecha y su hora. El ruso cubre todas las pantallas, incluidos los fines de semana de carrera, los saludos de fiestas y la fecha del calendario persa (Shamsi). Los demás
+idiomas mantienen su diseño original.
 
 </details>
 
 <details>
-<summary><b>Clock screensaver</b></summary>
+<summary><b>Tarjetas de módulo</b></summary>
 
-Pick "Clock" in the TV's screensaver settings, or over ADB:
+Cualquier aplicación del televisor puede declarar su propio recuadro (nombre, texto, brillo). El inicio te pregunta una vez por cada aplicación, lo deja
+oculto de forma predeterminada, y recuerda tu respuesta según la firma de esa aplicación y el nombre de la tarjeta. Mantén OK sobre Configuración
+y elige Tarjetas de módulo si cambias de opinión. Cómo hacer una: [`docs/modules.md`](docs/modules.md); las
+reglas técnicas: [`docs/specs/card.md`](docs/specs/card.md).
+
+</details>
+
+<details>
+<summary><b>Protector de pantalla de reloj</b></summary>
+
+Elige "Reloj" en los ajustes del protector de pantalla del televisor, o hazlo por ADB:
 
 ```bash
 tools/tv.py 'settings put secure screensaver_components com.gathin.tvhome/.ClockDream; settings put secure screensaver_enabled 1'
@@ -587,271 +588,271 @@ tools/tv.py 'settings put secure screensaver_components com.gathin.tvhome/.Clock
 </details>
 
 <details>
-<summary><b>Remote keys</b></summary>
+<summary><b>Botones del control remoto</b></summary>
 
-- An optional accessibility service keeps the remote's **Input** button working on Google TV
-  (`INPUT_KEY_SERVICE=1` at install).
-- It can bring back other buttons only the stock launcher answered, such as the **YouTube** button
-  (`app_keys` and `input_key_keycodes`, in config.xml or a theme; `HOME_KEY_SERVICE=1` reads `app_keys` too).
-- A `hold:` prefix on an `app_keys` entry gives that button a second app: a normal press opens the
-  unprefixed app, holding for half a second opens the hold one (by keycode or `hold:scan:...`).
-- `HOME_KEY_SERVICE=1` also fixes sticks whose Home key sends ALL_APPS, and opens Settings from the remote's
-  **gear** button, even one Android does not map (scancodes or keycodes in config.xml).
-- With `settings_key_panel` the gear opens a [small quick settings panel](docs/quick-settings-panel.jpg)
-  over Home or any app: TV settings, Display, Network, Apps and Launcher settings.
+- Un servicio de accesibilidad opcional mantiene funcionando el botón **Entrada** del control en Google TV
+  (`INPUT_KEY_SERVICE=1` al instalar).
+- Puede recuperar otros botones que solo atendía el inicio original, como el botón de **YouTube**
+  (`app_keys` y `input_key_keycodes`, en config.xml o en un tema; `HOME_KEY_SERVICE=1` también lee `app_keys`).
+- El prefijo `hold:` en una línea de `app_keys` le da a ese botón una segunda aplicación: una pulsación normal abre la
+  aplicación sin prefijo, y mantenerlo presionado medio segundo abre la otra (por código de tecla o `hold:scan:...`).
+- `HOME_KEY_SERVICE=1` también arregla los dispositivos tipo "stick" cuyo botón de Inicio envía ALL_APPS, y abre Configuración desde el botón del
+  **engranaje** del control, incluso uno que Android no reconoce (códigos de tecla en config.xml).
+- Con `settings_key_panel`, el engranaje abre un [pequeño panel de ajustes rápidos](docs/quick-settings-panel.jpg)
+  encima del Inicio o de cualquier aplicación: ajustes del televisor, Pantalla, Red, Aplicaciones y Ajustes del inicio.
 
 </details>
 
 <details>
-<summary><b>Navigation and artwork</b></summary>
+<summary><b>Navegación e imágenes</b></summary>
 
-Up and Down move one row. The top buttons never fall through to tiles, and Down from them returns to the
-dock tile you came from. The last focused app is remembered, and installing or removing an app refreshes
-the tiles while Home is open. App banners load at xhdpi or better, so low-density TV UIs do not downsample
-them before the focus zoom.
+Arriba y Abajo mueven una fila. Los botones de arriba nunca saltan a los recuadros, y Abajo desde ellos vuelve al
+recuadro de la barra desde el que llegaste. Se recuerda la última aplicación seleccionada, y al instalar o quitar una aplicación se actualizan
+los recuadros mientras el Inicio está abierto. Las imágenes de las aplicaciones se cargan en alta resolución (xhdpi o más), para que los televisores de baja resolución no las
+achiquen antes del acercamiento al seleccionarlas.
 
 </details>
 
-## Restoring your TV
+## Restaurar tu televisor
 
-Keep the list you applied. One line puts the TV back the way it was:
+Guarda la lista que aplicaste. Con una sola línea el televisor vuelve a quedar como estaba:
 
 ```bash
 TV_HOST=192.168.1.50 tools/restore.sh examples/<your tv>/debloat.txt                                    # Android TV
 TV_HOST=192.168.1.50 tools/restore.sh examples/<your tv>/debloat.txt com.google.android.apps.tv.launcherx  # Google TV
 ```
 
-| What | How |
+| Qué | Cómo |
 |---|---|
-| **A record comes first** | Before `tools/disable.sh` changes anything it writes down what the TV looked like, in `~/.cleanyourtv/`. |
-| **Restore replays it** | A package you had disabled yourself stays disabled, and Home goes back to the component that owned it. |
-| **The launcher stays installed** | Remove it from the TV's Settings → Apps if you want it gone. |
-| **No computer?** | If the TV is unreachable, its own Settings → Apps page can re-enable packages too. |
+| **Primero se guarda un registro** | Antes de que `tools/disable.sh` cambie algo, anota cómo estaba el televisor, en `~/.cleanyourtv/`. |
+| **La restauración lo repite al revés** | Una aplicación que tú mismo habías desactivado sigue desactivada, y el Inicio vuelve a quien lo ocupaba antes. |
+| **El inicio nuevo queda instalado** | Quítalo desde Configuración → Aplicaciones del televisor si ya no lo quieres. |
+| **¿No tienes computadora?** | Si no puedes conectarte al televisor, su propia página de Configuración → Aplicaciones también permite volver a activar aplicaciones. |
 
 <details>
-<summary><b>What the record holds, and what happens without one</b></summary>
+<summary><b>Qué guarda el registro, y qué pasa si no hay uno</b></summary>
 
-Before `tools/disable.sh` changes anything it writes down what the TV looked like: for every package
-in the list whether it was enabled, already disabled or not installed, which component owned Home,
-and the three animation scales. That record lives in `~/.cleanyourtv/`, one file per TV and list, and
-a second run of the same list keeps the first record instead of saving the cleaned-up state over it.
-If you added packages to the list since, that run adds them to the record before disabling them.
+Antes de que `tools/disable.sh` cambie algo, anota cómo estaba el televisor: para cada aplicación
+de la lista, si estaba activada, ya desactivada o no instalada; qué componente ocupaba el Inicio;
+y las tres escalas de animación. Ese registro se guarda en `~/.cleanyourtv/`, un archivo por televisor y por lista, y
+si se vuelve a aplicar la misma lista se conserva el primer registro en vez de guardar encima el estado ya limpio.
+Si desde entonces agregaste aplicaciones a la lista, esa vez se suman al registro antes de desactivarlas.
 
-Keep the list you applied. The restore script replays the record, so a package you had disabled
-yourself stays disabled and Home goes back to the component that owned it:
+Guarda la lista que aplicaste. El programa de restauración repite el registro, así que una aplicación que tú mismo habías desactivado
+sigue desactivada y el Inicio vuelve al componente que lo ocupaba:
 
-The `stock launcher` argument is only a fallback: with a record, the launcher that actually owned Home
-is the one that gets it back, and the argument is used only when nothing answered HOME at the time
-or this project's launcher owned it. The stock launcher is enabled again either way, unless it was
-already disabled when the record was taken.
-Without a record (an older run, or a record you deleted) the script says so and falls back to
-enabling the whole list and resetting the scales to `1.0`, which is what it used to do.
+El argumento `stock launcher` es solo un plan de respaldo: si hay registro, el inicio que realmente ocupaba el Inicio
+es el que lo recupera, y el argumento solo se usa cuando nada respondía al botón HOME en ese momento
+o cuando lo ocupaba el inicio de este proyecto. El inicio original se vuelve a activar de todas formas, salvo que ya
+estuviera desactivado cuando se guardó el registro.
+Sin registro (de una versión anterior, o porque lo borraste) el programa lo avisa y vuelve a lo que hacía antes:
+activar toda la lista y poner las escalas en `1.0`.
 
-It leaves the new launcher installed (remove it from the TV's Settings → Apps if you want it gone)
-and does not know about packages you disabled outside the list. To switch back later, run the
-install script again; it works out which launcher to disable even when Home has fallen back to
-Android's chooser. If the TV is unreachable, its own
-Settings → Apps page can re-enable packages too.
+Deja instalado el inicio nuevo (quítalo desde Configuración → Aplicaciones del televisor si ya no lo quieres)
+y no sabe nada de las aplicaciones que desactivaste fuera de la lista. Para volver a cambiar más adelante, ejecuta otra vez el
+programa de instalación; descubre qué inicio desactivar incluso cuando el Inicio quedó en el
+selector de Android. Si no puedes conectarte al televisor, su propia
+página de Configuración → Aplicaciones también permite volver a activar aplicaciones.
 
 </details>
 
-## After a firmware update
+## Después de una actualización del firmware
 
-An update installs over the cleaned-up system: the listed packages come back, Home goes to the
-stock launcher, and new preloads appear that no list mentions. Nothing else here notices, so
-compare the TV with the list you applied:
+Una actualización se instala encima del sistema ya limpio: las aplicaciones de la lista vuelven, el Inicio pasa al
+inicio original, y aparecen nuevas aplicaciones preinstaladas que ninguna lista menciona. Nada más aquí se da cuenta, así que
+compara el televisor con la lista que aplicaste:
 
 ```bash
 TV_HOST=192.168.1.50 tools/venv/bin/python -I tools/check.py examples/<your tv>/debloat.txt
 ```
 
-It prints what drifted and exits 1 when anything did, so a weekly job on a home server or a Pi is
-enough to hear about it:
+Muestra lo que cambió y termina con 1 cuando algo cambió, así que basta una tarea semanal en un servidor de casa o en una Raspberry Pi
+para enterarte:
 
 ```bash
 0 9 * * 1 cd ~/cleanyourtv && TV_HOST=192.168.1.50 tools/venv/bin/python -I tools/check.py examples/<your tv>/debloat.txt
 ```
 
-`--fix` reapplies the list to what drifted: it switches Home to the launcher the list does not
-disable (pass a package as the second argument if you run a fork), then disables the listed packages
-that came back, and reads the TV back to confirm both. It writes no recovery record, because the
-record already holds the state from before the first run: `tools/restore.sh` still returns the TV to
-stock afterwards. Home is fixed first; if no launcher is left to take it, `--fix` changes nothing
-and says so.
+`--fix` vuelve a aplicar la lista a lo que cambió: pone como Inicio el inicio que la lista no
+desactiva (indica una aplicación como segundo argumento si usas una versión modificada), luego desactiva las aplicaciones de la lista
+que volvieron, y revisa el televisor para confirmar las dos cosas. No escribe un registro de recuperación, porque el
+registro ya tiene el estado de antes de la primera vez: `tools/restore.sh` igual devuelve el televisor a como venía
+de fábrica después. Primero se arregla el Inicio; si no queda ningún inicio que pueda ocuparlo, `--fix` no cambia nada
+y lo avisa.
 
-It runs the same safety checks as `tools/disable.sh` before it disables anything, since an update is
-the moment they matter again: it leaves setupwraith on while the saved Wi-Fi network belongs to it
-(`FORCE_SETUPWRAITH=1` on Ethernet), leaves the packages under the HDMI/AV inputs on
-(`TVINPUT_ALLOW=1` if you really want them off), and never takes Home to a vendor `FallbackHome` or
-a factory-test app.
-Each package it leaves on comes with the reason and exits 1, because the TV is not back to the list
-until you deal with that one by hand.
+Hace las mismas comprobaciones de seguridad que `tools/disable.sh` antes de desactivar cualquier cosa, porque una actualización es
+justo el momento en que vuelven a importar: deja activado setupwraith mientras la red Wi-Fi guardada le pertenezca
+(`FORCE_SETUPWRAITH=1` si usas cable de red), deja activadas las aplicaciones de las entradas HDMI/AV
+(`TVINPUT_ALLOW=1` si de verdad quieres apagarlas), y nunca pone como Inicio un `FallbackHome` del fabricante ni
+una aplicación de prueba de fábrica.
+Cada aplicación que deja activada viene con su motivo y termina con 1, porque el televisor no vuelve a estar como dice la lista
+hasta que resuelvas eso a mano.
 
-Lists that also disable the updater get no updates at all. To install one, re-enable the updater on
-the TV, let it update, run `check.py --fix`, and disable the updater again.
+Las listas que también desactivan el actualizador no reciben ninguna actualización. Para instalar una, vuelve a activar el actualizador en
+el televisor, deja que se actualice, ejecuta `check.py --fix`, y desactiva el actualizador otra vez.
 
-On Windows the same command is `tools\venv\Scripts\python.exe -I tools\check.py <list>`.
+En Windows el mismo comando es `tools\venv\Scripts\python.exe -I tools\check.py <list>`.
 
-## When something goes wrong
+## Cuando algo sale mal
 
-The full list of things that bit us is in [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md). The
-three that matter most:
+La lista completa de problemas que nos encontramos está en [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md). Los
+tres más importantes:
 
-- 🍎 **macOS blocks `adb connect`** ("No route to host") under Local Network privacy. `tools/tv.py` avoids the binary.
-- ⚠️ **Disable the stock launcher only after the new one is installed and running**, or Home lands on a factory test app. The install script orders this for you.
-- 🔁 **On Google TV the setup wizard** (`com.google.android.tungsten.setupwraith`) can take Home and crash-loop the system after the stock launcher is disabled. Disable it too, and list it in your `debloat.txt` so restore brings it back. But check `dumpsys wifi | grep -o 'cname=[^ ]*'` first: if the Wi-Fi network was saved during setup it belongs to setupwraith, and disabling it deletes the network (re-join it in Settings first; `tools/disable.sh` skips setupwraith until you do). On Google's own Chromecast and on the Google TV Streamer it also costs phone casting, see [Troubleshooting](docs/TROUBLESHOOTING.md). Stuck already? `tools/tv.py 'pm enable --user 0 com.google.android.apps.tv.launcherx'`.
+- 🍎 **macOS bloquea `adb connect`** ("No route to host") por la privacidad de Red local. `tools/tv.py` evita ese programa.
+- ⚠️ **Desactiva el inicio original solo después de que el nuevo esté instalado y funcionando**, o el Inicio termina en una aplicación de prueba de fábrica. El programa de instalación lo hace en ese orden por ti.
+- 🔁 **En Google TV, el asistente de configuración inicial** (`com.google.android.tungsten.setupwraith`) puede ocupar el Inicio y hacer que el sistema se cuelgue una y otra vez después de desactivar el inicio original. Desactívalo también, y agrégalo a tu `debloat.txt` para que la restauración lo traiga de vuelta. Pero antes revisa `dumpsys wifi | grep -o 'cname=[^ ]*'`: si la red Wi-Fi se guardó durante la configuración inicial, le pertenece a setupwraith, y desactivarlo borra la red (primero vuelve a conectarte a ella desde Configuración; `tools/disable.sh` se salta setupwraith hasta que lo hagas). En el propio Chromecast de Google y en el Google TV Streamer también pierdes la opción de transmitir desde el teléfono; mira [Solución de problemas](docs/TROUBLESHOOTING.md). ¿Ya te quedaste atascado? `tools/tv.py 'pm enable --user 0 com.google.android.apps.tv.launcherx'`.
 
-## Questions people ask
+## Preguntas frecuentes
 
 <details>
-<summary><b>I don't code and don't have a laptop. Can I still do this?</b></summary>
+<summary><b>No sé programar y no tengo computadora portátil. ¿Igual puedo hacerlo?</b></summary>
 
-Yes. [@udhaykumarbala](https://github.com/udhaykumarbala) built a free, open-source [phone app](https://cleanyour.tv/app)
-for Android that does the same cleanup over Wi-Fi: it connects to the TV, shows a plan first, saves a restore
-point, and only switches apps off, so everything can be put back. It's community-built.
+Sí. [@udhaykumarbala](https://github.com/udhaykumarbala) creó una [aplicación para el teléfono](https://cleanyour.tv/app) gratuita y de código abierto
+para Android que hace la misma limpieza por Wi-Fi: se conecta al televisor, primero te muestra un plan, guarda un punto de
+restauración, y solo apaga aplicaciones, así que todo se puede volver a poner. Está hecha por la comunidad.
 
 </details>
 
 <details>
-<summary><b>Is this safe? Can it brick the TV?</b></summary>
+<summary><b>¿Es seguro? ¿Puede dejar el televisor inservible?</b></summary>
 
-Nothing is flashed, rooted or deleted; packages are disabled
-in the user profile. The risk is disabling something the TV leans on, which is why lists are
-applied in small batches with a restore script ready. The TV's own Settings → Apps page can
-re-enable packages even without the tools.
-
-</details>
-
-<details>
-<summary><b>What about firmware updates?</b></summary>
-
-The updater is left on in most lists, so firmware updates arrive as usual. Some lists disable the
-TV's own updater, and on those a firmware update arrives only when you re-enable it. When one does
-land it installs over the cleaned-up system, so a package comes back and you re-run the script: see
-[After a firmware update](#after-a-firmware-update).
+No se reinstala el sistema, no se hace root ni se borra nada; las aplicaciones se desactivan
+en el perfil del usuario. El riesgo es desactivar algo que el televisor necesita, y por eso las listas se
+aplican en grupos pequeños con un programa de restauración listo. La propia página de Configuración → Aplicaciones del televisor puede
+volver a activar aplicaciones incluso sin las herramientas.
 
 </details>
 
 <details>
-<summary><b>Won't the apps break?</b></summary>
+<summary><b>¿Y las actualizaciones del firmware?</b></summary>
 
-Streaming apps still update through the Play Store, which is left alone.
-The launcher just lists what is installed and launches it with intents that have been stable for a decade.
+En la mayoría de las listas el actualizador queda activado, así que las actualizaciones del firmware llegan como siempre. Algunas listas desactivan el
+actualizador propio del televisor, y en esos casos una actualización solo llega cuando lo vuelves a activar. Cuando llega una,
+se instala encima del sistema ya limpio, así que alguna aplicación vuelve y tienes que ejecutar el programa otra vez: mira
+[Después de una actualización del firmware](#después-de-una-actualización-del-firmware).
 
 </details>
 
 <details>
-<summary><b>Can I do this for someone in another home?</b></summary>
+<summary><b>¿No se van a romper las aplicaciones?</b></summary>
 
-Yes, over a private [Tailscale](https://tailscale.com)
-link instead of the same Wi-Fi: either Tailscale on their TV, shared with you, or a computer or Apple
-TV at their home routing to it. Never by opening the ADB port on their router. Step by step in
+Las aplicaciones de streaming se siguen actualizando por la Play Store, que no se toca.
+El inicio solo muestra lo que está instalado y lo abre con métodos de Android que no han cambiado en una década.
+
+</details>
+
+<details>
+<summary><b>¿Puedo hacerlo para alguien que vive en otra casa?</b></summary>
+
+Sí, por una conexión privada de [Tailscale](https://tailscale.com)
+en vez de estar en el mismo Wi-Fi: ya sea con Tailscale en su televisor, compartido contigo, o con una computadora o un Apple
+TV en su casa que te dé acceso a él. Nunca abriendo el puerto ADB en su router. El paso a paso está en
 [docs/REMOTE.md](docs/REMOTE.md).
 
 </details>
 
 <details>
-<summary><b>Isn't ADB access a security hole?</b></summary>
+<summary><b>¿El acceso ADB no es un agujero de seguridad?</b></summary>
 
-It is one explicit "allow this computer" tap on the TV, the
-same as developing an Android app. Network ADB is plaintext on port 5555, and on firmware with
-`ro.adb.secure=0` any device on the LAN gets a shell, so close it when you are done:
+Es un único toque explícito de "permitir esta computadora" en el televisor, lo
+mismo que cuando se desarrolla una aplicación para Android. El ADB por red viaja sin cifrar por el puerto 5555, y en los firmwares con
+`ro.adb.secure=0` cualquier aparato de tu red local puede entrar, así que ciérralo cuando termines:
 
-1. On the TV: Developer options → turn **USB debugging** and **Network/ADB debugging** off, and
-   revoke the USB debugging authorisations.
-2. Reboot the TV, then confirm the port is gone from your computer:
-   `python3 tools/adb-closed.py <tv ip>` must say the port is closed. With `nc -vz <tv ip> 5555`,
-   only "Connection refused" counts: on macOS, Local Network privacy can block `nc` and make it
-   fail with "No route to host" even while the port is open.
+1. En el televisor: Opciones de desarrollador → desactiva **Depuración por USB** y **Depuración por red/ADB**, y
+   revoca las autorizaciones de depuración por USB.
+2. Reinicia el televisor y luego confirma desde tu computadora que el puerto ya no está:
+   `python3 tools/adb-closed.py <tv ip>` tiene que decir que el puerto está cerrado. Con `nc -vz <tv ip> 5555`,
+   solo cuenta "Connection refused": en macOS, la privacidad de Red local puede bloquear `nc` y hacerlo
+   fallar con "No route to host" aunque el puerto siga abierto.
 
-The launcher keeps working without debugging.
+El inicio sigue funcionando sin la depuración.
 
 </details>
 
 <details>
-<summary><b>Can it block ads inside apps too?</b></summary>
+<summary><b>¿También puede bloquear la publicidad dentro de las aplicaciones?</b></summary>
 
-Partly, with Android's Private DNS (Android 9 and newer). Point
-it at an ad-blocking resolver such as [AdGuard DNS](https://adguard-dns.io) and every app's ad and
-tracker domains stop resolving, system-wide, surviving reboots. The trade-off: that resolver then
-sees every DNS query the TV makes.
+En parte, con el DNS privado de Android (Android 9 o más nuevo). Apúntalo
+a un servidor que bloquee anuncios, como [AdGuard DNS](https://adguard-dns.io), y las direcciones de anuncios y
+rastreo de todas las aplicaciones dejan de funcionar, en todo el sistema, y se mantiene después de reiniciar. La contra: ese servidor
+ve todas las consultas DNS que hace el televisor.
 
 ```bash
 tools/tv.py 'settings put global private_dns_specifier dns.adguard-dns.com'
 tools/tv.py 'settings put global private_dns_mode hostname'
 ```
 
-It does not remove YouTube ads, which come from the same servers as the videos. When the TV reports
-"No internet", the resolver is down or unreachable and switching back restores everything:
-`tools/tv.py 'settings put global private_dns_mode opportunistic'`. A resolver that answers can still
-break one app on its own, so if a single app fails while the rest play, see
-[one app refuses to play](docs/TROUBLESHOOTING.md#one-app-refuses-to-play-while-the-rest-of-the-tv-is-online)
-before you debug the app.
+No quita los anuncios de YouTube, que vienen de los mismos servidores que los videos. Cuando el televisor dice
+"Sin conexión a internet", el servidor está caído o no se puede alcanzar, y volver atrás lo arregla todo:
+`tools/tv.py 'settings put global private_dns_mode opportunistic'`. Un servidor que sí responde igual puede
+hacer fallar una aplicación en particular, así que si una sola aplicación falla mientras las demás funcionan, mira
+[una aplicación no reproduce](docs/TROUBLESHOOTING.md#una-app-se-niega-a-reproducir-mientras-el-resto-de-la-tv-está-en-línea)
+antes de buscar el problema en la aplicación.
 
 </details>
 
 <details>
-<summary><b>AirPlay?</b></summary>
+<summary><b>¿AirPlay?</b></summary>
 
-Not from this repo. Chromecast built-in stays for Android phones. For iPhones,
-[jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) works; an install
-script for it is in [PR #84](https://github.com/Gathin23/cleanyourtv/pull/84).
+No desde este repositorio. Chromecast integrado se mantiene para los teléfonos Android. Para iPhone,
+[jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) funciona; un programa de instalación
+para eso está en el [PR #84](https://github.com/Gathin23/cleanyourtv/pull/84).
 
 </details>
 
 <details>
-<summary><b>Can I just download the APK?</b></summary>
+<summary><b>¿Puedo simplemente descargar el APK?</b></summary>
 
-Build it with the one-line script; it takes a minute and you
-control what goes on your TV. No prebuilt binaries.
+Ármalo con el programa de una sola línea; tarda un minuto y tú
+controlas lo que se instala en tu televisor. No hay programas ya armados para descargar.
 
 </details>
 
-## Contributing
+## Cómo colaborar
 
-The most useful contribution is your TV's debloat list, so the next person with that model does
-not have to rediscover it. [CONTRIBUTING.md](CONTRIBUTING.md) has the format and the testing we ask for.
-Contributing through a coding agent? [AGENTS.md](AGENTS.md) gives it the same rules.
+La colaboración más útil es la lista de limpieza de tu televisor, para que la próxima persona con ese modelo no
+tenga que descubrirla de nuevo. [CONTRIBUTING.md](CONTRIBUTING.md) explica el formato y las pruebas que pedimos.
+¿Colaboras a través de un asistente de programación? [AGENTS.md](AGENTS.md) le da las mismas reglas.
 
-| How to help | What it means |
+| Cómo ayudar | Qué significa |
 |---|---|
-| **Your TV's debloat list** | The most useful one: the next person with that model skips the discovery. |
-| **Launcher and prompt** | Launcher improvements and sharper prompt wording are welcome too. |
-| **Built something on top?** | A launcher, a port, a theme: add it to [SHOWCASE.md](SHOWCASE.md), where seventy projects already live, sorted into home screens, forks, add-ons, tools and other platforms, with an index by TV brand. |
+| **La lista de limpieza de tu televisor** | La más útil: la próxima persona con ese modelo se ahorra buscar qué desactivar. |
+| **Inicio e instrucciones** | También son bienvenidas las mejoras al inicio y una redacción más clara de las instrucciones. |
+| **¿Creaste algo a partir de esto?** | Un inicio, una adaptación, un tema: agrégalo a [SHOWCASE.md](SHOWCASE.md), donde ya hay setenta proyectos, ordenados en pantallas de inicio, versiones derivadas, complementos, herramientas y otras plataformas, con un índice por marca de televisor. |
 
-The people whose work is in this repo:
+Las personas cuyo trabajo está en este repositorio:
 
-<a href="https://github.com/Gathin23/cleanyourtv/graphs/contributors"><img src="https://contrib.rocks/image?repo=Gathin23/cleanyourtv&columns=16&max=400" alt="Contributors"></a>
+<a href="https://github.com/Gathin23/cleanyourtv/graphs/contributors"><img src="https://contrib.rocks/image?repo=Gathin23/cleanyourtv&columns=16&max=400" alt="Colaboradores"></a>
 
 <details>
-<summary><strong>Star history</strong></summary>
+<summary><strong>Historial de estrellas</strong></summary>
 
-<a href="https://star-history.com/#Gathin23/cleanyourtv&Date"><img src="https://api.star-history.com/svg?repos=Gathin23/cleanyourtv&type=Date" alt="Star history chart" width="640"></a>
+<a href="https://star-history.com/#Gathin23/cleanyourtv&Date"><img src="https://api.star-history.com/svg?repos=Gathin23/cleanyourtv&type=Date" alt="Gráfico del historial de estrellas" width="640"></a>
 
 </details>
 
-## Contact
+## Contacto
 
-| For | Where |
+| Para | Dónde |
 |---|---|
-| **Questions about your TV** | [GitHub Discussions](https://github.com/Gathin23/cleanyourtv/discussions) |
-| **Press and partnerships** | [hello@itsgathin.com](mailto:hello@itsgathin.com) |
-| **Security issues** | Report them privately through the [Security tab](https://github.com/Gathin23/cleanyourtv/security), see [`SECURITY.md`](SECURITY.md) |
+| **Preguntas sobre tu televisor** | [GitHub Discussions](https://github.com/Gathin23/cleanyourtv/discussions) |
+| **Prensa y alianzas** | [hello@itsgathin.com](mailto:hello@itsgathin.com) |
+| **Problemas de seguridad** | Repórtalos en privado desde la [pestaña Security](https://github.com/Gathin23/cleanyourtv/security); mira [`SECURITY.md`](SECURITY.md) |
 
-## Legal
+## Aviso legal
 
-- CleanYourTV is an independent open-source project. It is not affiliated with, endorsed by or sponsored
-  by any TV maker or platform. Brand and model names are used only to say which TV a list was tested on,
-  and remain the trademarks of their owners.
-- It works only through settings the TV itself offers to its owner: Developer options, ADB debugging and
-  Android's own `pm disable-user`, the same switch as Settings > Apps > Disable. It does not root the TV,
-  flash firmware, or bypass any lock, DRM or copy protection, and the repo contains no manufacturer
-  software, firmware or APKs.
-- Nothing is uninstalled, and `tools/restore.sh` puts everything back. You run it on a TV you own, at your
-  own risk, and changing a TV's software may affect its warranty or support.
-- Everything here is provided as is, without warranty of any kind, under the MIT licence below.
+- CleanYourTV es un proyecto independiente de código abierto. No está asociado, respaldado ni patrocinado
+  por ningún fabricante de televisores ni plataforma. Los nombres de marcas y modelos se usan solo para decir en qué televisor se probó una lista,
+  y siguen siendo marcas registradas de sus dueños.
+- Funciona solo a través de opciones que el propio televisor le ofrece a su dueño: las Opciones de desarrollador, la depuración ADB y
+  el propio `pm disable-user` de Android, el mismo interruptor que Configuración > Aplicaciones > Desactivar. No hace root al televisor,
+  no reinstala el firmware ni salta ningún bloqueo, DRM o protección anticopia, y el repositorio no contiene programas,
+  firmware ni APK de ningún fabricante.
+- No se desinstala nada, y `tools/restore.sh` vuelve a poner todo como estaba. Lo usas en un televisor que es tuyo, bajo tu
+  propia responsabilidad, y cambiar los programas de un televisor puede afectar su garantía o el soporte técnico.
+- Todo lo que hay aquí se ofrece tal como está, sin garantía de ningún tipo, bajo la licencia MIT que aparece abajo.
 
-## Licence
+## Licencia
 
-MIT, see [`LICENSE`](LICENSE). The Outfit typeface is under the SIL Open Font License, see
+MIT, mira [`LICENSE`](LICENSE). La letra Outfit está bajo la SIL Open Font License; mira
 `launcher/FONT-LICENSE-OFL.txt`.

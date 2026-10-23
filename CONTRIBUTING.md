@@ -47,7 +47,7 @@ installer, ext services or ext shared, module metadata, a `com.google.android.ov
 overlay, systemui, shell, phone, settings, tv.settings, `android`, or a `com.android.providers.*`
 package other than calendar, contacts, user dictionary and blocked numbers. A TV that loses one of
 them may never boot again ([#884](https://github.com/Gathin23/cleanyourtv/issues/884), and
-[what to do if it already happened](docs/TROUBLESHOOTING.md#working-on-the-tv)), so
+[what to do if it already happened](docs/TROUBLESHOOTING.md#trabajando-en-la-tv)), so
 `tools/disable.sh`, `disable.ps1` and `check.py --fix` refuse such a list outright, with no switch to
 override it, and a pull request that names them comes back for a rework.
 
